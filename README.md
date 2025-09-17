@@ -130,6 +130,7 @@ Profile Page
 updating
 <img width="1897" height="867" alt="image" src="https://github.com/user-attachments/assets/1b12bf6a-c7e1-4022-a19e-8455f073abd8" />
 <img width="911" height="557" alt="image" src="https://github.com/user-attachments/assets/26d16d4d-41de-41a6-8ce4-0028e052e75d" />
+
 deleting - profile(Ankit)
 <img width="1897" height="861" alt="image" src="https://github.com/user-attachments/assets/2b7f86a8-5fd1-4273-896f-a783fd037206" />
 <img width="901" height="488" alt="image" src="https://github.com/user-attachments/assets/45d39e13-abd4-47e2-99d8-290aa9d862ab" />
