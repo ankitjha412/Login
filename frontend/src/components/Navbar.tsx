@@ -35,7 +35,7 @@ const Navbar = () => {
                 Login <span className={underline}></span>
               </Link>
               <Link className={linkClasses} to="/register">
-                Register <span className={underline}></span>
+                Signup <span className={underline}></span>
               </Link>
             </>
           ) : (
