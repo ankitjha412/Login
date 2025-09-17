@@ -135,6 +135,8 @@ deleting - profile(Ankit)
 <img width="1897" height="861" alt="image" src="https://github.com/user-attachments/assets/2b7f86a8-5fd1-4273-896f-a783fd037206" />
 <img width="901" height="488" alt="image" src="https://github.com/user-attachments/assets/45d39e13-abd4-47e2-99d8-290aa9d862ab" />
 
+flask and frontend running code
+<img width="1919" height="1024" alt="image" src="https://github.com/user-attachments/assets/8b3dc53e-2797-4198-9a24-348fdae8a32d" />
 
 
 
