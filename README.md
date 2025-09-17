@@ -124,8 +124,9 @@ Profile Page
 <img width="1901" height="864" alt="image" src="https://github.com/user-attachments/assets/dcc89bf1-6135-4c98-9ac8-4b86b2de2c92" />
 <img width="947" height="506" alt="image" src="https://github.com/user-attachments/assets/390e900d-8ceb-4dba-8325-cc8b80b9bdeb" />
 <img width="1898" height="866" alt="image" src="https://github.com/user-attachments/assets/46163c2f-33e2-43f3-96aa-0c284798b8b7" />
-<img width="1884" height="775" alt="image" src="https://github.com/user-attachments/assets/08696594-31ae-41fc-adcf-661601cce308" />
 <img width="910" height="534" alt="image" src="https://github.com/user-attachments/assets/df2918c2-6f86-4231-b036-da51ec845b6e" />
+<img width="1884" height="775" alt="image" src="https://github.com/user-attachments/assets/08696594-31ae-41fc-adcf-661601cce308" />
+
 updating
 <img width="1897" height="867" alt="image" src="https://github.com/user-attachments/assets/1b12bf6a-c7e1-4022-a19e-8455f073abd8" />
 <img width="911" height="557" alt="image" src="https://github.com/user-attachments/assets/26d16d4d-41de-41a6-8ce4-0028e052e75d" />
