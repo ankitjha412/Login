@@ -120,7 +120,7 @@ Login Page
 Signup Page
 
 Profile Page
-
+<img width="1901" height="866" alt="image" src="https://github.com/user-attachments/assets/a7725a6d-04b1-4cb0-93ca-2d55cb6c18f6" />
 <img width="1901" height="864" alt="image" src="https://github.com/user-attachments/assets/dcc89bf1-6135-4c98-9ac8-4b86b2de2c92" />
 <img width="947" height="506" alt="image" src="https://github.com/user-attachments/assets/390e900d-8ceb-4dba-8325-cc8b80b9bdeb" />
 <img width="1884" height="775" alt="image" src="https://github.com/user-attachments/assets/08696594-31ae-41fc-adcf-661601cce308" />
